@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/nav.css">
+    <link rel="stylesheet" href="css/slide.css">
+    <script src="https://kit.fontawesome.com/58258d10d8.js" crossorigin="anonymous"></script>
+
+</head>
+<body>
+
+    <header>
+        <nav>
+            <input type="checkbox" id="burgerbox">
+            <label id="hamburger" for="burgerbox"><img src="img/logo.png"></label>
+            <img src="img/Logo_Experience-Center_Transparant_1477x372px.png">
+            <section id="leftNav">
+                <a href="index.html" class="navButton" id="selected"><i class="fa-solid fa-house"></i>Home</a>
+                <a href="informatie/" class="navButton"><i class="fa-solid fa-circle-info"></i>Informatie</a>
+                <a href="projects/" class="navButton"><i class="fas fa-project-diagram"></i>Projecten</a>
+                <a href="overons/" class="navButton"><i class="fa-regular fa-address-card"></i>Over ons</a>
+            </section>
+            <section id="rightNav">
+                <a class="navButton" href="#"><i class="fa-solid fa-address-book"></i>Contact</a>
+            </section>
+        </nav>
+    </header>
+
+    <article id="powerp">
+        <article id="slidesContainer">
+            <template id="slideTemplate">
+                <article class="slide">
+                  <div class="Linksdeelding"></div>
+                  <div class="viddeel"></div>
+                  <div class="Rechtsdeelding"></div>
+                </article>
+            </template>              
+        </article>
+        <article id="knoppies">
+            <button id="previousButton">Vorige Pagina</button>
+            <button id="nextButton">Volgende Pagina</button>
+        </article>
+        <script src="https://www.youtube.com/player_api"></script>
+        <script src="https://www.youtube.com/iframe_api"></script>
+    </article>
+    <script src="pwp.js"></script>
+    
+</html> 

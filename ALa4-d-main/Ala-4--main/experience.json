@@ -1,0 +1,107 @@
+[
+
+    {
+
+        "left":[
+
+            "Smart Energy",
+
+            "Cooling our Homes without electricity",
+
+            "Undecided with Matt Ferrell"
+
+        ],
+
+        "video":"./img/image.png",
+
+        "right":[
+
+            "Up next",
+
+            "10:01 - 10:16 Cooling Our Homes Without Electricity? Undecided with Matt Ferrell",
+
+            "10:16 - 10:30 Solar Panels Plus Farming? Agrivoltaics Explained? Undecided with Matt Ferrell",
+
+            "10:30 - 10:43 Is Geothermal Heating and Cooling Worth the Cost? Heat Pumps Explained Undecided with Matt Ferrell"
+
+        ]
+
+    },
+
+    {
+
+        "left":[
+
+            "Smart Tech",
+
+            "Cooling our Homes without electricity",
+
+        "Undecided with Matt Ferrell"
+
+        ],
+
+        "video":"https://youtube.com/embed/oLt-X13CgQc",
+
+        "right":[
+
+            "About this video",
+
+            "Exploring Electricity Free Cooling with Aerogel. Whether its to regulate the temperature of food, medicine, or people, we’ll always need some form of cooling tech to survive. We tend to turn to air conditioning to solve these problems, but that uses up a lot of electricity. A team of researchers from the Massachusetts Institute of Technology have an idea: stack the same cooling techniques weve been using for thousands of years by harnessing the power of aerogel. No power, no emissions…no problem?"
+
+        ]
+
+    },
+
+    {
+
+        "left":[
+
+            "Smart Energy",
+
+            "Solar Panels Plus Farming? Agrivoltaics Explained.",
+
+            "Undecided with Matt Ferrell"
+
+        ],
+
+        "video":"./img/image.png",
+
+        "right":[
+
+            "Up next",
+
+            "10:16 - 10:30 Solar Panels Plus Farming? Agrivoltaics Explained? Undecided with Matt Ferrell",
+
+            "10:30 - 10:43 Is Geothermal Heating and Cooling Worth the Cost? Heat Pumps Explained Undecided with Matt Ferrell",
+
+            "10:43 - 10:59 Solar Panels For Home 9 Months Later - Review - Undecided with Matt Ferrell"
+
+        ]
+
+    },
+
+    {
+
+        "left":[
+
+            "Smart Energy",
+
+            "Solar Panels Plus Farming? Agrivoltaics Explained.",
+
+            "Undecided with Matt Ferrell"
+
+        ],
+
+        "video":"https://youtube.com/embed/lgZBlD-TCFE",
+
+        "right":[
+
+            "About this video",
+
+            "Could combining solar panels plus farming be a viable solution to the growing demand for food production and energy demand? Let’s take a closer look at electrifying our crops (not literally electrifying crops) … while, adding solar to our farm land as well as some of the side benefits and challenges it creates.Solar panels on farmland, is that what our society needs? Agrivoltaics could be the solution we were waiting for..."
+
+        ]
+
+    }
+
+]

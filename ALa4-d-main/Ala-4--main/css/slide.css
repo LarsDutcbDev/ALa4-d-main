@@ -1,0 +1,58 @@
+.slide {
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+}
+
+#slidesContainer {
+  background-color: rgb(196, 196, 196);
+  border-top: 5px solid rgb(139, 139, 139);
+  border-bottom: 5px solid rgb(139, 139, 139);
+}
+
+.Linksdeelding {
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+
+
+.viddeel {
+  grid-column-start: 4;
+  grid-column-end: 7;
+}
+
+
+.Rechtsdeelding {
+  grid-column-start: 7;
+  grid-column-end: 9;
+}
+
+#powerp {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+}
+
+#knoppies {
+  margin-top: 100px;
+  text-align: center;
+}
+
+#previousButton {
+border: 2px solid black;
+height: 50px;
+width: 200px;
+border-radius: 15px;
+font-weight: 900;
+background-color: rgb(255 230 2);
+
+}
+
+#nextButton {
+  border: 2px solid black;
+  height: 50px;
+  width: 200px;
+  border-radius: 15px;
+  font-weight: 900;
+  background-color: rgb(255 230 2);
+
+}
+
